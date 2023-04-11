@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am a Computer Engineering graduate from Wroclaw University of Science and Technology, currently pursuing my Master's degree in the field of AI. My primary goal is to develop my skills as a Java Engineer and contribute to the industry with my knowledge.
+I am a Computer Engineering graduate from Wroclaw University of Science and Technology, currently pursuing my Master's degree in the field of AI.
 
 I have hands-on experience with programming languages such as Java, Python, and JavaScript.
 
